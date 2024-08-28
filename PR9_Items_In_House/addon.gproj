@@ -1,0 +1,8 @@
+GameProject {
+ ID "PR9ItemsInHouse"
+ GUID "6239272D38320B8A"
+ TITLE "PR9_Items_In_House"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
